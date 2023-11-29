@@ -1,0 +1,40 @@
+body {
+    background-color: greenyellow;
+}
+h1 {
+    color: red;
+    font-family: serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#menu>ul {
+    list-style-type: none;
+}
+
+#menu>ul>li {
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+    margin: 5px;
+    width: 50px
+}
+
+.important {
+    margin: 10px;
+    padding: 5px;
+    background-color: lightsteelblue;
+    border: 1px black solid;
+    text-align: left;
+    width: 100px;
+}
+
+div {
+    border: 15px solid green;
+    border-radius: 10px;
+    paddding: 10px;
+    margin: 25px;
+    widht: 300px;
+    height: 50px;
+    background-color: aqua;
+}
